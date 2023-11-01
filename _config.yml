@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "James Wellnitz"
   avatar           : "jwellni.jpg"
-  bio              : "PhD student in Pharmaceutical Science @ UNC"
+  bio              : "PhD student in Pharmaceutical Science"
   location         : "Chapel Hill"
-  employer         :
+  employer         : "University of North Carolina Chapel Hill"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZhselLIAAAAJ&hl=en&authuser=1"
   email            : "jwellnitz@unc.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "james-wellnitz-3168b0150/"
-  orcid            : 
+  orcid            : "0000-0002-9181-3431"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

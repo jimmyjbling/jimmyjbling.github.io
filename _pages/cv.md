@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology & Data Science, Purdue University, 2021
+* Ph.D in Pharmaceutical Sciences, University of North Carolina Chapel Hill, 2026 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2023 — Current: Intern in Computational Drug Discovery
+  * Orogen Therapeutics
+  * Full-Time (Summer only), Part-Time
+  * Worked on various computational and machine learning project to accelerate early stage discovery
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2023 — June 2023: Consultant in Computational Drug Discovery
+  * Animol Discovery
+  * Part-Time
+  * Worked on various computational and machine learning project to accelerate early stage discovery
+
+* Fall 2021 — Current: Graduate Research Assistant
+  * University of North Carolina Chapel Hill
+  * Co-Advisors: Alexander Tropsha & Konstantin Popov
+  * Work on research projects in the area of DNA encoded library machine learning and computational early stage drug discovery screening
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Numpy
+  * Scikit-Learn
+  * PyTorch
+  * RDKit
+* Large scale virtual screening
+* Schrodinger Suite
+* Molecular Docking
+* Molecular Dynamics
+* Quantitative Structure Activity Relationship (QSAR) Modeling
 
 Publications
 ======
@@ -44,16 +53,10 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  2023 — Oral presentation, Southeastern Regional Meeting of American Chemical Society (SERMACS), Medical Chemistry division (MEDI)
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
